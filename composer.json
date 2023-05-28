@@ -1,0 +1,19 @@
+{
+    "name": "synon/mogo",
+    "description": "Mogo is php library for export MYSQL database.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Synon\\Mogo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Farzin Bidokhti",
+            "email": "farzin.bidokhti@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
